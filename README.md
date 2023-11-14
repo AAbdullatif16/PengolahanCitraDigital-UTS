@@ -1,5 +1,5 @@
 # PengolahanCitraDigital-UTS
-Ujian Tengah Semester (UTS) Pengolahan Citra Digital
+Ujian Tengah Semester (UTS) Pengolahan Citra Digital <br>
 Nama : A.Abdul Latif <b> <br>
 NIM  : 2106145 <b> <br>
 
